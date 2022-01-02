@@ -1,7 +1,7 @@
 [package]
 name = "arrform"
 version = "0.1.1"
-edition = "2021"
+edition = "2018"
 license = "MIT OR Apache-2.0"
 description = "String formatting without memory allocator"
 repository = "https://github.com/Simsys/arrform"
